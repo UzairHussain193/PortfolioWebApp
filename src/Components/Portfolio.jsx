@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop-books.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with books,pens and laptop";
 
 /**
  * Project list
@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "The Top 5 Digital Marketing Skills You Need to Learn as a Beginner.🎉",
+    description:"The top 5 digital marekting skills you should learn as a beginner.",
+    url: "https://medium.com/@uzairhussain193/the-top-5-digital-marketing-skills-you-need-to-learn-as-a-beginner-8af45c0bc8b8",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Maximizing Your Personal Social Media Reach: Tips for Effective Social Media Marketing",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Explained the strategy that how can you increase your social media reach and get more followers.",
+    url: "https://medium.com/@uzairhussain193/maximizing-your-personal-social-media-reach-tips-for-effective-social-media-marketing-ab328244ca58",
   },
   {
     title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    description:"Created a time ago, using wordpress and it is not fully developed yet. ",
+    url: "https://uzairhussain.tech/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Repository of Data Structures and Algorithms in Java",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a repo, which contains some basic and advanced tasks of DSA in java, which helps beginners to learn and start contributing.",
+    url: "https://github.com/UzairHussain193/Data_Structures_Algorithms",
   },
 ];
 
